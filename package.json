@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-async-loading-client-side-hydration",
+  "version": "1.0.0",
+  "description": "nuxt",
+  "author": "rvenn",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-mq": "^2.0.0"
+  },
+  "devDependencies": {}
+}
